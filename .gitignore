@@ -1,0 +1,9 @@
+build/
+install/
+devel/
+log/
+*.catkin_make
+*.pyc
+__pycache__/
+*.swp
+.colcon/
